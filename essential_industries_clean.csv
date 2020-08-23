@@ -1,0 +1,676 @@
+code_naics,lbl_naics,lbl_hls,source_hls,source_penn,d_uncertain,d_limited
+111110,Soybean Farming,FOOD AND AGRICULTURE,1,0,0,0
+111120,Oilseed (except Soybean) Farming,FOOD AND AGRICULTURE,1,0,0,0
+111130,Dry Pea and Bean Farming,FOOD AND AGRICULTURE,1,0,0,0
+111140,Wheat Farming,FOOD AND AGRICULTURE,1,0,0,0
+111150,Corn Farming,FOOD AND AGRICULTURE,1,0,0,0
+111160,Rice Farming,FOOD AND AGRICULTURE,1,0,0,0
+111191,Oilseed and Grain Combination Farming,FOOD AND AGRICULTURE,1,0,0,0
+111199,All Other Grain Farming,FOOD AND AGRICULTURE,1,0,0,0
+111211,Potato Farming,FOOD AND AGRICULTURE,1,0,0,0
+111219,Other Vegetable (except Potato) and Melon Farming,FOOD AND AGRICULTURE,1,0,0,0
+111310,Orange Groves,FOOD AND AGRICULTURE,1,0,0,0
+111320,Citrus (except Orange) Groves,FOOD AND AGRICULTURE,1,0,0,0
+111331,Apple Orchards,FOOD AND AGRICULTURE,1,0,0,0
+111332,Grape Vineyards,FOOD AND AGRICULTURE,1,0,0,0
+111333,Strawberry Farming,FOOD AND AGRICULTURE,1,0,0,0
+111334,Berry (except Strawberry) Farming,FOOD AND AGRICULTURE,1,0,0,0
+111335,Tree Nut Farming,FOOD AND AGRICULTURE,1,0,0,0
+111336,Fruit and Tree Nut Combination Farming,FOOD AND AGRICULTURE,1,0,0,0
+111339,Other Noncitrus Fruit Farming,FOOD AND AGRICULTURE,1,0,0,0
+111411,Mushroom Production,FOOD AND AGRICULTURE,1,0,0,0
+111419,Other Food Crops Grown Under Cover,FOOD AND AGRICULTURE,1,0,0,0
+111421,Nursery and Tree Production,FOOD AND AGRICULTURE,1,0,0,0
+111422,Floriculture Production,FOOD AND AGRICULTURE,1,0,0,0
+111910,Tobacco Farming,FOOD AND AGRICULTURE,1,0,0,0
+111920,Cotton Farming,FOOD AND AGRICULTURE,1,0,0,0
+111930,Sugarcane Farming,FOOD AND AGRICULTURE,1,0,0,0
+111940,Hay Farming,FOOD AND AGRICULTURE,1,0,0,0
+111991,Sugar Beet Farming,FOOD AND AGRICULTURE,1,0,0,0
+111992,Peanut Farming,FOOD AND AGRICULTURE,1,0,0,0
+111998,All Other Miscellaneous Crop Farming,FOOD AND AGRICULTURE,1,0,0,0
+112111,Beef Cattle Ranching and Farming,FOOD AND AGRICULTURE,1,0,0,0
+112112,Cattle Feedlots,FOOD AND AGRICULTURE,1,0,0,0
+112120,Dairy Cattle and Milk Production,FOOD AND AGRICULTURE,1,0,0,0
+112130,Dual-Purpose Cattle Ranching and Farming,FOOD AND AGRICULTURE,1,0,0,0
+112210,Hog and Pig Farming,FOOD AND AGRICULTURE,1,0,0,0
+112310,Chicken Egg Production,FOOD AND AGRICULTURE,1,0,0,0
+112320,Broilers and Other Meat Type Chicken Production,FOOD AND AGRICULTURE,1,0,0,0
+112330,Turkey Production,FOOD AND AGRICULTURE,1,0,0,0
+112340,Poultry Hatcheries,FOOD AND AGRICULTURE,1,0,0,0
+112390,Other Poultry Production,FOOD AND AGRICULTURE,1,0,0,0
+112410,Sheep Farming,FOOD AND AGRICULTURE,1,0,0,0
+112420,Goat Farming,FOOD AND AGRICULTURE,1,0,0,0
+112511,Finfish Farming and Fish Hatcheries,FOOD AND AGRICULTURE,1,0,0,0
+112512,Shellfish Farming,FOOD AND AGRICULTURE,1,0,0,0
+112519,Other Aquaculture,FOOD AND AGRICULTURE,1,0,0,0
+112910,Apiculture,FOOD AND AGRICULTURE,1,0,0,0
+112920,Horses and Other Equine Production,FOOD AND AGRICULTURE,1,0,0,0
+112930,Fur-Bearing Animal and Rabbit Production,FOOD AND AGRICULTURE,1,0,0,0
+112990,All Other Animal Production,FOOD AND AGRICULTURE,1,0,0,0
+113110,Timber Tract Operations,FOOD AND AGRICULTURE,1,0,0,0
+113210,Forest Nurseries and Gathering of Forest Products,FOOD AND AGRICULTURE,1,0,0,0
+113310,Logging,FOOD AND AGRICULTURE,1,0,0,0
+114111,Finfish Fishing,FOOD AND AGRICULTURE,1,0,0,0
+114112,Shellfish Fishing,FOOD AND AGRICULTURE,1,0,0,0
+114119,Other Marine Fishing,FOOD AND AGRICULTURE,1,0,0,0
+114210,Hunting and Trapping,FOOD AND AGRICULTURE,1,0,0,0
+115111,Cotton Ginning,FOOD AND AGRICULTURE,1,0,0,0
+115112,"Soil Preparation, Planting, and Cultivating",FOOD AND AGRICULTURE,1,0,0,0
+115113,"Crop Harvesting, Primarily by Machine",FOOD AND AGRICULTURE,1,0,0,0
+115114,Postharvest Crop Activities (except Cotton Ginning),FOOD AND AGRICULTURE,1,0,0,0
+115115,Farm Labor Contractors and Crew Leaders,FOOD AND AGRICULTURE,1,0,0,0
+115116,Farm Management Services,FOOD AND AGRICULTURE,1,0,0,0
+115210,Support Activities for Animal Production,FOOD AND AGRICULTURE,1,0,0,0
+115310,Support Activities for Forestry,FOOD AND AGRICULTURE,1,0,0,0
+211120,Crude Petroleum Extraction,ENERGY,1,0,0,0
+211130,Natural Gas Extraction,ENERGY,1,0,0,0
+212111,Bituminous Coal and Lignite Surface Mining,ENERGY,1,0,0,0
+212112,Bituminous Coal Underground Mining,ENERGY,1,0,0,0
+212113,Anthracite Mining,ENERGY,1,0,0,0
+212210,Iron Ore Mining,CRITICAL MANUFACTURING,1,0,0,0
+212221,Gold Ore Mining,CRITICAL MANUFACTURING,1,0,0,0
+212222,Silver Ore Mining,CRITICAL MANUFACTURING,1,0,0,0
+212230,"Copper, Nickel, Lead, and Zinc Mining",CRITICAL MANUFACTURING,1,0,0,0
+212291,Uranium-Radium-Vanadium Ore Mining,CRITICAL MANUFACTURING,1,0,0,0
+212299,All Other Metal Ore Mining,CRITICAL MANUFACTURING,1,0,0,0
+212311,Dimension Stone Mining and Quarrying,CRITICAL MANUFACTURING,1,0,0,0
+212312,Crushed and Broken Limestone Mining and Quarrying,CRITICAL MANUFACTURING,1,0,0,0
+212313,Crushed and Broken Granite Mining and Quarrying,CRITICAL MANUFACTURING,1,0,0,0
+212319,Other Crushed and Broken Stone Mining and Quarrying,CRITICAL MANUFACTURING,1,0,0,0
+212321,Construction Sand and Gravel Mining,CRITICAL MANUFACTURING,1,0,0,0
+212322,Industrial Sand Mining,CRITICAL MANUFACTURING,1,0,0,0
+212324,Kaolin and Ball Clay Mining,CRITICAL MANUFACTURING,1,0,0,0
+212325,Clay and Ceramic and Refractory Minerals Mining,CRITICAL MANUFACTURING,1,0,0,0
+212391,"Potash, Soda, and Borate Mineral Mining",CRITICAL MANUFACTURING,1,0,0,0
+212392,Phosphate Rock Mining,CRITICAL MANUFACTURING,1,0,0,0
+212393,Other Chemical and Fertilizer Mineral Mining,CRITICAL MANUFACTURING,1,0,0,0
+212399,All Other Nonmetallic Mineral Mining,CRITICAL MANUFACTURING,1,0,0,0
+213111,Drilling Oil and Gas Wells,ENERGY,1,0,0,0
+213112,Support Activities for Oil and Gas Operations,ENERGY,1,0,0,0
+213113,Support Activities for Coal Mining,ENERGY,1,0,0,0
+213114,Support Activities for Metal Mining,CRITICAL MANUFACTURING,1,0,0,0
+213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,CRITICAL MANUFACTURING,1,0,0,0
+221111,Hydroelectric Power Generation,ENERGY,1,0,0,0
+221112,Fossil Fuel Electric Power Generation,ENERGY,1,0,0,0
+221113,Nuclear Electric Power Generation,ENERGY,1,0,0,0
+221114,Solar Electric Power Generation,ENERGY,1,0,0,0
+221115,Wind Electric Power Generation,ENERGY,1,0,0,0
+221116,Geothermal Electric Power Generation,ENERGY,1,0,0,0
+221117,Biomass Electric Power Generation,ENERGY,1,0,0,0
+221118,Other Electric Power Generation,ENERGY,1,0,0,0
+221121,Electric Bulk Power Transmission and Control,ENERGY,1,0,0,0
+221122,Electric Power Distribution,ENERGY,1,0,0,0
+221210,Natural Gas Distribution,ENERGY,1,0,0,0
+221310,Water Supply and Irrigation Systems,WATER AND WASTEWATER,1,0,0,0
+221320,Sewage Treatment Facilities,WATER AND WASTEWATER,1,0,0,0
+221330,Steam and Air-Conditioning Supply,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+236110,Residential Building Construction,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+236115,New Single-Family Housing Construction (except For-Sale Builders),"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+236116,New Multifamily Housing Construction (except For-Sale Builders),"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+236117,New Housing For-Sale Builders,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+236118,Residential Remodelers,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+236210,Industrial Building Construction,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,1,0
+236220,Commercial and Institutional Building Construction,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,1,0
+237110,Water and Sewer Line and Related Structures Construction,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,1,0
+237120,Oil and Gas Pipeline and Related Structures Construction,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,1,0
+237130,Power and Communication Line and Related Structures Construction,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,1,0
+237210,Land Subdivision,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+237310,"Highway, Street, and Bridge Construction",PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,1,0
+238110,Poured Concrete Foundation and Structure Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238120,Structural Steel and Precast Concrete Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238130,Framing Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238140,Masonry Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238150,Glass and Glazing Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238160,Roofing Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238170,Siding Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238190,"Other Foundation, Structure, and Building Exterior Contractors","RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238210,Electrical Contractors and Other Wiring Installation Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,1,0
+238220,"Plumbing, Heating, and Air-Conditioning Contractors","RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238290,Other Building Equipment Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238310,Drywall and Insulation Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238320,Painting and Wall Covering Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238330,Flooring Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238340,Tile and Terrazzo Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238350,Finish Carpentry Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238390,Other Building Finishing Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238910,Site Preparation Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+238990,All Other Specialty Trade Contractors,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+311111,Dog and Cat Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311119,Other Animal Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311211,Flour Milling,FOOD AND AGRICULTURE,1,0,0,0
+311212,Rice Milling,FOOD AND AGRICULTURE,1,0,0,0
+311213,Malt Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311221,Wet Corn Milling,FOOD AND AGRICULTURE,1,0,0,0
+311224,Soybean and Other Oilseed Processing,FOOD AND AGRICULTURE,1,0,0,0
+311225,Fats and Oils Refining and Blending,FOOD AND AGRICULTURE,1,0,0,0
+311230,Breakfast Cereal Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311313,Beet Sugar Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311314,Cane Sugar Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311340,Nonchocolate Confectionery Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311351,Chocolate and Confectionery Manufacturing from Cacao Beans,FOOD AND AGRICULTURE,1,0,0,0
+311352,Confectionery Manufacturing from Purchased Chocolate,FOOD AND AGRICULTURE,1,0,0,0
+311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",FOOD AND AGRICULTURE,1,0,0,0
+311412,Frozen Specialty Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311421,Fruit and Vegetable Canning,FOOD AND AGRICULTURE,1,0,0,0
+311422,Specialty Canning,FOOD AND AGRICULTURE,1,0,0,0
+311423,Dried and Dehydrated Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311511,Fluid Milk Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311512,Creamery Butter Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311513,Cheese Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",FOOD AND AGRICULTURE,1,0,0,0
+311520,Ice Cream and Frozen Dessert Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311611,Animal (except Poultry) Slaughtering,FOOD AND AGRICULTURE,1,0,0,0
+311612,Meat Processed from Carcasses,FOOD AND AGRICULTURE,1,0,0,0
+311613,Rendering and Meat Byproduct Processing,FOOD AND AGRICULTURE,1,0,0,0
+311615,Poultry Processing,FOOD AND AGRICULTURE,1,0,0,0
+311710,Seafood Product Preparation and Packaging,FOOD AND AGRICULTURE,1,0,0,0
+311811,Retail Bakeries,FOOD AND AGRICULTURE,1,0,0,1
+311812,Commercial Bakeries,FOOD AND AGRICULTURE,1,0,0,0
+311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",FOOD AND AGRICULTURE,1,0,0,0
+311821,Cookie and Cracker Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",FOOD AND AGRICULTURE,1,0,0,0
+311830,Tortilla Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311911,Roasted Nuts and Peanut Butter Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311919,Other Snack Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311920,Coffee and Tea Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311930,Flavoring Syrup and Concentrate Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",FOOD AND AGRICULTURE,1,0,0,0
+311942,Spice and Extract Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311991,Perishable Prepared Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+311999,All Other Miscellaneous Food Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+312111,Soft Drink Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+312112,Bottled Water Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+312113,Ice Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+312120,Breweries,FOOD AND AGRICULTURE,1,0,0,0
+312130,Wineries,FOOD AND AGRICULTURE,1,0,0,0
+312140,Distilleries,FOOD AND AGRICULTURE,1,0,0,0
+321113,Sawmills,FOOD AND AGRICULTURE,1,0,0,0
+321114,Wood Preservation,FOOD AND AGRICULTURE,1,0,0,0
+321211,Hardwood Veneer and Plywood Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321212,Softwood Veneer and Plywood Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321213,Engineered Wood Member (except Truss) Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321214,Truss Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321219,Reconstituted Wood Product Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321911,Wood Window and Door Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321912,"Cut Stock, Resawing Lumber, and Planing",FOOD AND AGRICULTURE,1,1,0,0
+321918,Other Millwork (including Flooring),FOOD AND AGRICULTURE,1,1,0,0
+321920,Wood Container and Pallet Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+321991,Manufactured Home (Mobile Home) Manufacturing,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,1,1,0
+321992,Prefabricated Wood Building Manufacturing,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,1,1,0
+321999,All Other Miscellaneous Wood Product Manufacturing,FOOD AND AGRICULTURE,1,1,0,0
+322110,Pulp Mills,FOOD AND AGRICULTURE,1,0,0,0
+322121,Paper (except Newsprint) Mills,FOOD AND AGRICULTURE,1,0,0,0
+322122,Newsprint Mills,FOOD AND AGRICULTURE,1,0,0,0
+322130,Paperboard Mills,FOOD AND AGRICULTURE,1,0,0,0
+322211,Corrugated and Solid Fiber Box Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+322212,Folding Paperboard Box Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+322219,Other Paperboard Container Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+322220,Paper Bag and Coated and Treated Paper Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+322230,Stationery Product Manufacturing,FOOD AND AGRICULTURE,0,1,0,0
+322291,Sanitary Paper Product Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+322299,All Other Converted Paper Product Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+324110,Petroleum Refineries,ENERGY,1,0,0,0
+324121,Asphalt Paving Mixture and Block Manufacturing,ENERGY,1,0,0,0
+324122,Asphalt Shingle and Coating Materials Manufacturing,ENERGY,1,0,0,0
+324191,Petroleum Lubricating Oil and Grease Manufacturing,ENERGY,1,0,0,0
+324199,All Other Petroleum and Coal Products Manufacturing,ENERGY,1,0,0,0
+325110,Petrochemical Manufacturing,ENERGY,1,0,0,0
+325120,Industrial Gas Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+325130,Synthetic Dye and Pigment Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+325180,Other Basic Inorganic Chemical Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+325193,Ethyl Alcohol Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",CRITICAL MANUFACTURING,1,0,0,0
+325199,All Other Basic Organic Chemical Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+325211,Plastics Material and Resin Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+325212,Synthetic Rubber Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+325220,Artificial and Synthetic Fibers and Filaments Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+325311,Nitrogenous Fertilizer Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+325312,Phosphatic Fertilizer Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+325314,Fertilizer (Mixing Only) Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+325320,Pesticide and Other Agricultural Chemical Manufacturing,FOOD AND AGRICULTURE,1,0,0,0
+325411,Medicinal and Botanical Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+325412,Pharmaceutical Preparation Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+325413,In-Vitro Diagnostic Substance Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+325414,Biological Product (except Diagnostic) Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+325510,Paint and Coating Manufacturing,CHEMICAL,1,0,0,0
+325520,Adhesive Manufacturing,CHEMICAL,1,0,0,0
+325611,Soap and Other Detergent Manufacturing,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+325612,Polish and Other Sanitation Good Manufacturing,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+325613,Surface Active Agent Manufacturing,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+325620,Toilet Preparation Manufacturing,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+325910,Printing Ink Manufacturing,CHEMICAL,0,1,1,0
+325920,Explosives Manufacturing,DEFENSE INDUSTRIAL BASE,0,1,1,0
+325991,Custom Compounding of Purchased Resins,CHEMICAL,0,1,1,0
+325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing",CHEMICAL,0,1,1,0
+325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,CHEMICAL,0,1,1,0
+326111,Plastics Bag and Pouch Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326121,Unlaminated Plastics Profile Shape Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326122,Plastics Pipe and Pipe Fitting Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",CRITICAL MANUFACTURING,1,1,0,0
+326140,Polystyrene Foam Product Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326160,Plastics Bottle Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326191,Plastics Plumbing Fixture Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326199,All Other Plastics Product Manufacturing,CRITICAL MANUFACTURING,1,1,0,0
+326211,Tire Manufacturing (except Retreading),CRITICAL MANUFACTURING,1,0,0,0
+326212,Tire Retreading,CRITICAL MANUFACTURING,1,0,0,0
+326220,Rubber and Plastics Hoses and Belting Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+326291,Rubber Product Manufacturing for Mechanical Use,CRITICAL MANUFACTURING,1,0,0,0
+326299,All Other Rubber Product Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+327310,Cement Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+327320,Ready-Mix Concrete Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+327331,Concrete Block and Brick Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+327332,Concrete Pipe Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+327390,Other Concrete Product Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+327410,Lime Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+327420,Gypsum Product Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+327910,Abrasive Product Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+327991,Cut Stone and Stone Product Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+327992,Ground or Treated Mineral and Earth Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+327993,Mineral Wool Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+331110,Iron and Steel Mills and Ferroalloy Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,CRITICAL MANUFACTURING,1,0,0,0
+331221,Rolled Steel Shape Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+331222,Steel Wire Drawing,CRITICAL MANUFACTURING,1,0,0,0
+331313,Alumina Refining and Primary Aluminum Production,CRITICAL MANUFACTURING,1,0,0,0
+331314,Secondary Smelting and Alloying of Aluminum,CRITICAL MANUFACTURING,1,0,0,0
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing",CRITICAL MANUFACTURING,1,0,0,0
+331318,"Other Aluminum Rolling, Drawing, and Extruding",CRITICAL MANUFACTURING,1,0,0,0
+332311,Prefabricated Metal Building and Component Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332312,Fabricated Structural Metal Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332313,Plate Work Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332321,Metal Window and Door Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332322,Sheet Metal Work Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332323,Ornamental and Architectural Metal Work Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332510,Hardware Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+332992,Small Arms Ammunition Manufacturing,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+332993,Ammunition (except Small Arms) Manufacturing,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing","LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+333111,Farm Machinery and Equipment Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+333120,Construction Machinery Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+333131,Mining Machinery and Equipment Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+333132,Oil and Gas Field Machinery and Equipment Manufacturing,CRITICAL MANUFACTURING,1,0,1,0
+333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+333611,Turbine and Turbine Generator Set Units Manufacturing,ENERGY,0,1,1,0
+333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",ENERGY,0,1,1,0
+333613,Mechanical Power Transmission Equipment Manufacturing,ENERGY,0,1,1,0
+333618,Other Engine Equipment Manufacturing,ENERGY,0,1,1,0
+334412,Bare Printed Circuit Board Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+334413,Semiconductor and Related Device Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",CRITICAL MANUFACTURING,1,0,0,0
+334417,Electronic Connector Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+334419,Other Electronic Component Manufacturing,CRITICAL MANUFACTURING,1,0,0,0
+334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+334517,Irradiation Apparatus Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,1,0
+335110,Electric Lamp Bulb and Part Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+335121,Residential Electric Lighting Fixture Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",COMMERCIAL FACILITIES,1,0,0,0
+335129,Other Lighting Equipment Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+335210,Small Electrical Appliance Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+335220,Major Household Appliance Manufacturing,COMMERCIAL FACILITIES,1,0,0,0
+335311,"Power, Distribution, and Specialty Transformer Manufacturing",ENERGY,1,0,1,0
+335312,Motor and Generator Manufacturing,ENERGY,1,0,1,0
+335313,Switchgear and Switchboard Apparatus Manufacturing,ENERGY,1,0,1,0
+335314,Relay and Industrial Control Manufacturing,ENERGY,1,0,1,0
+335911,Storage Battery Manufacturing,ENERGY,1,0,1,0
+335912,Primary Battery Manufacturing,ENERGY,1,0,1,0
+335921,Fiber Optic Cable Manufacturing,ENERGY,1,0,1,0
+335929,Other Communication and Energy Wire Manufacturing,ENERGY,1,0,1,0
+335931,Current-Carrying Wiring Device Manufacturing,ENERGY,1,0,1,0
+335932,Noncurrent-Carrying Wiring Device Manufacturing,ENERGY,1,0,1,0
+335991,Carbon and Graphite Product Manufacturing,ENERGY,1,0,1,0
+335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,ENERGY,1,0,1,0
+336414,Guided Missile and Space Vehicle Manufacturing,DEFENSE INDUSTRIAL BASE,1,0,0,0
+336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing;,DEFENSE INDUSTRIAL BASE,1,0,0,0
+336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,DEFENSE INDUSTRIAL BASE,1,0,0,0
+336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",DEFENSE INDUSTRIAL BASE,1,0,0,0
+339112,Surgical and Medical Instrument Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+339113,Surgical Appliance and Supplies Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+339114,Dental Equipment and Supplies Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+339115,Ophthalmic Goods Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+339116,Dental Laboratories,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+339994,"Broom, Brush, and Mop Manufacturing",HEALTHCARE / PUBLIC HEALTH,0,0,1,0
+339995,Burial Casket Manufacturing,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+423110,Automobile and Other Motor Vehicle Merchant Wholesalers,TRANSPORTATION AND LOGISTICS,0,1,0,0
+423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers,TRANSPORTATION AND LOGISTICS,0,1,0,0
+423130,Tire and Tube Merchant Wholesalers,TRANSPORTATION AND LOGISTICS,0,1,0,0
+423140,Motor Vehicle Parts (Used) Merchant Wholesalers,TRANSPORTATION AND LOGISTICS,0,1,0,0
+423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",COMMERCIAL FACILITIES,1,0,0,0
+423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",COMMERCIAL FACILITIES,1,0,0,0
+423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",COMMERCIAL FACILITIES,1,0,0,0
+423390,Other Construction Material Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+423460,Ophthalmic Goods Merchant Wholesalers,HEALTHCARE / PUBLIC HEALTH,1,0,1,0
+423520,Coal and Other Mineral and Ore Merchant Wholesalers,ENERGY,1,0,0,0
+423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",ENERGY,1,0,0,0
+423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",COMMERCIAL FACILITIES,1,0,0,0
+423690,Other Electronic Parts and Equipment Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423710,Hardware Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423740,Refrigeration Equipment and Supplies Merchant Wholesalers,COMMERCIAL FACILITIES,1,0,0,0
+423820,Farm and Garden Machinery and Equipment Merchant Wholesalers ,FOOD AND AGRICULTURE,1,0,0,0
+424110,Printing and Writing Paper Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424120,Stationery and Office Supplies Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,1
+424130,Industrial and Personal Service Paper Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,1
+424210,Drugs and Druggists' Sundries Merchant Wholesalers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+424410,General Line Grocery Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424420,Packaged Frozen Food Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424430,Dairy Product (except Dried or Canned) Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424440,Poultry and Poultry Product Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424450,Confectionery Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424460,Fish and Seafood Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424470,Meat and Meat Product Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424480,Fresh Fruit and Vegetable Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424490,Other Grocery and Related Products Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424510,Grain and Field Bean Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424520,Livestock Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424590,Other Farm Product Raw Material Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424710,Petroleum Bulk Stations and Terminals,ENERGY,1,0,0,0
+424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),ENERGY,1,0,0,0
+424810,Beer and Ale Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+424910,Farm Supplies Merchant Wholesalers,FOOD AND AGRICULTURE,1,0,0,0
+441110,New Car Dealers,TRANSPORTATION AND LOGISTICS,1,0,0,0
+441120,Used Car Dealers,TRANSPORTATION AND LOGISTICS,1,0,0,0
+441210,Recreational Vehicle Dealers,TRANSPORTATION AND LOGISTICS,1,0,0,0
+441222,Boat Dealers,TRANSPORTATION AND LOGISTICS,1,0,1,0
+441228,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",TRANSPORTATION AND LOGISTICS,1,0,1,0
+441310,Automotive Parts and Accessories Stores,TRANSPORTATION AND LOGISTICS,1,0,0,0
+441320,Tire Dealers,TRANSPORTATION AND LOGISTICS,1,0,0,0
+444110,Home Centers,COMMERCIAL FACILITIES,1,0,0,0
+444120,Paint and Wallpaper Stores,COMMERCIAL FACILITIES,1,0,0,0
+444130,Hardware Stores,COMMERCIAL FACILITIES,1,0,0,0
+444190,Other Building Material Dealers,COMMERCIAL FACILITIES,1,0,0,0
+444210,Outdoor Power Equipment Stores,FOOD AND AGRICULTURE,1,0,0,0
+444220,"Nursery, Garden Center, and Farm Supply Stores",FOOD AND AGRICULTURE,1,0,0,0
+445110,Supermarkets and Other Grocery (except Convenience) Stores,FOOD AND AGRICULTURE,1,0,0,0
+445120,Convenience Stores,FOOD AND AGRICULTURE,1,0,0,0
+445210,Meat Markets,FOOD AND AGRICULTURE,1,0,0,0
+445220,Fish and Seafood Markets,FOOD AND AGRICULTURE,1,0,0,0
+445230,Fruit and Vegetable Markets,FOOD AND AGRICULTURE,1,0,0,0
+445291,Baked Goods Stores,FOOD AND AGRICULTURE,1,0,0,1
+445292,Confectionery and Nut Stores,FOOD AND AGRICULTURE,1,0,0,1
+445299,All Other Specialty Food Stores,FOOD AND AGRICULTURE,1,0,0,0
+445310,"Beer, Wine, and Liquor Stores",FOOD AND AGRICULTURE,1,0,0,0
+446110,Pharmacies and Drug Stores,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+446130,Optical Goods Stores,HEALTHCARE / PUBLIC HEALTH,0,0,1,0
+446191,Food (Health) Supplement Stores,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+446199,All Other Health and Personal Care Stores,HEALTHCARE / PUBLIC HEALTH,1,0,0,1
+447110,Gasoline Stations with Convenience Stores,ENERGY,1,0,0,0
+447190,Other Gasoline Stations,ENERGY,1,0,0,0
+452311,Warehouse Clubs and Supercenters,FOOD AND AGRICULTURE,0,1,0,0
+452319,All Other General Merchandise Stores,FOOD AND AGRICULTURE,0,1,0,0
+453110,Florists,FOOD AND AGRICULTURE,1,0,1,0
+453910,Pet and Pet Supplies Stores,FOOD AND AGRICULTURE,1,0,0,0
+454110,Electronic Shopping and Mail-Order Houses,FOOD AND AGRICULTURE,0,1,0,0
+454210,Vending Machine Operators,FOOD AND AGRICULTURE,1,0,1,0
+454310,Fuel Dealers,ENERGY,1,0,0,0
+481111,Scheduled Passenger Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+481112,Scheduled Freight Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+481211,Nonscheduled Chartered Passenger Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+481212,Nonscheduled Chartered Freight Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+481219,Other Nonscheduled Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+482111,Line-Haul Railroads,TRANSPORTATION AND LOGISTICS,1,0,0,0
+482112,Short Line Railroads,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483111,Deep Sea Freight Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483112,Deep Sea Passenger Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483113,Coastal and Great Lakes Freight Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483114,Coastal and Great Lakes Passenger Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483211,Inland Water Freight Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+483212,Inland Water Passenger Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+484110,"General Freight Trucking, Local",TRANSPORTATION AND LOGISTICS,1,0,0,0
+484121,"General Freight Trucking, Long-Distance, Truckload",TRANSPORTATION AND LOGISTICS,1,0,0,0
+484122,"General Freight Trucking, Long-Distance, Less Than Truckload",TRANSPORTATION AND LOGISTICS,1,0,0,0
+484210,Used Household and Office Goods Moving,TRANSPORTATION AND LOGISTICS,1,0,0,0
+484220,"Specialized Freight (except Used Goods) Trucking, Local",TRANSPORTATION AND LOGISTICS,1,0,0,0
+484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",TRANSPORTATION AND LOGISTICS,1,0,0,0
+485111,Mixed Mode Transit Systems,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485112,Commuter Rail Systems,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485113,Bus and Other Motor Vehicle Transit Systems,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485119,Other Urban Transit Systems,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485210,Interurban and Rural Bus Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485310,Taxi Service,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485320,Limousine Service,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485410,School and Employee Bus Transportation,TRANSPORTATION AND LOGISTICS,0,1,1,0
+485510,Charter Bus Industry,TRANSPORTATION AND LOGISTICS,1,0,1,0
+485991,Special Needs Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+485999,All Other Transit and Ground Passenger Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+486110,Pipeline Transportation of Crude Oil,ENERGY,1,0,0,0
+486210,Pipeline Transportation of Natural Gas,ENERGY,1,0,0,0
+486910,Pipeline Transportation of Refined Petroleum Products,ENERGY,1,0,0,0
+486990,All Other Pipeline Transportation,ENERGY,1,0,0,0
+488111,Air Traffic Control,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488119,Other Airport Operations,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488190,Other Support Activities for Air Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488210,Support Activities for Rail Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488310,Port and Harbor Operations,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488320,Marine Cargo Handling,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488330,Navigational Services to Shipping,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488390,Other Support Activities for Water Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488410,Motor Vehicle Towing,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488490,Other Support Activities for Road Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488510,Freight Transportation Arrangement,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488991,Packing and Crating,TRANSPORTATION AND LOGISTICS,1,0,0,0
+488999,All Other Support Activities for Transportation,TRANSPORTATION AND LOGISTICS,1,0,0,0
+491110,Postal Service,TRANSPORTATION AND LOGISTICS,1,0,0,0
+492110,Couriers and Express Delivery Services,TRANSPORTATION AND LOGISTICS,1,0,0,0
+492210,Local Messengers and Local Delivery,TRANSPORTATION AND LOGISTICS,1,0,0,0
+493110,General Warehousing and Storage,TRANSPORTATION AND LOGISTICS,1,0,0,0
+493120,Refrigerated Warehousing and Storage,TRANSPORTATION AND LOGISTICS,1,0,0,0
+493130,Farm Product Warehousing and Storage,TRANSPORTATION AND LOGISTICS,1,0,0,0
+493190,Other Warehousing and Storage,TRANSPORTATION AND LOGISTICS,1,0,0,0
+511110,Newspaper Publishers,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+511120,Periodical Publishers,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+511210,Software Publishers,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+515111,Radio Networks,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+515112,Radio Stations,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+515120,Television Broadcasting,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+515210,Cable and Other Subscription Programming,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+517311,Wired Telecommunications Carriers,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+517312,Wireless Telecommunications Carriers (except Satellite),COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+517410,Satellite Telecommunications,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+517911,Telecommunications Resellers,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+517919,All Other Telecommunications,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+518210,"Data Processing, Hosting, and Related Services",COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+519130,Internet Publishing and Broadcasting and Web Search Portals,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+521110,Monetary Authorities-Central Bank,FINANCIAL SERVICES,1,0,0,0
+522110,Commercial Banking,FINANCIAL SERVICES,1,0,0,0
+522120,Savings Institutions,FINANCIAL SERVICES,1,0,0,0
+522130,Credit Unions,FINANCIAL SERVICES,1,0,0,0
+522190,Other Depository Credit Intermediation,FINANCIAL SERVICES,1,0,0,0
+522210,Credit Card Issuing,FINANCIAL SERVICES,1,0,0,0
+522220,Sales Financing,FINANCIAL SERVICES,1,0,0,0
+522291,Consumer Lending,FINANCIAL SERVICES,1,0,0,0
+522292,Real Estate Credit,FINANCIAL SERVICES,1,0,0,0
+522293,International Trade Financing,FINANCIAL SERVICES,1,0,0,0
+522294,Secondary Market Financing,FINANCIAL SERVICES,1,0,0,0
+522298,All Other Nondepository Credit Intermediation,FINANCIAL SERVICES,1,0,0,0
+522310,Mortgage and Nonmortgage Loan Brokers,FINANCIAL SERVICES,1,0,0,0
+522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",FINANCIAL SERVICES,1,0,0,0
+522390,Other Activities Related to Credit Intermediation,FINANCIAL SERVICES,1,0,0,0
+523110,Investment Banking and Securities Dealing,FINANCIAL SERVICES,1,0,0,0
+523120,Securities Brokerage,FINANCIAL SERVICES,1,0,0,0
+523130,Commodity Contracts Dealing,FINANCIAL SERVICES,1,0,0,0
+523140,Commodity Contracts Brokerage,FINANCIAL SERVICES,1,0,0,0
+523210,Securities and Commodity Exchanges,FINANCIAL SERVICES,1,0,0,0
+523910,Miscellaneous Intermediation,FINANCIAL SERVICES,1,0,0,0
+523920,Portfolio Management,FINANCIAL SERVICES,1,0,0,0
+523930,Investment Advice,FINANCIAL SERVICES,1,0,0,0
+523991,"Trust, Fiduciary, and Custody Activities",FINANCIAL SERVICES,1,0,0,0
+523999,Miscellaneous Financial Investment Activities,FINANCIAL SERVICES,1,0,0,0
+524113,Direct Life Insurance Carriers,FINANCIAL SERVICES,1,0,0,0
+524114,Direct Health and Medical Insurance Carriers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+524126,Direct Property and Casualty Insurance Carriers,FINANCIAL SERVICES,1,0,0,0
+524127,Direct Title Insurance Carriers,FINANCIAL SERVICES,1,0,0,0
+524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",FINANCIAL SERVICES,1,0,0,0
+524130,Reinsurance Carriers,FINANCIAL SERVICES,1,0,0,0
+524210,Insurance Agencies and Brokerages,FINANCIAL SERVICES,1,0,0,0
+524291,Claims Adjusting,FINANCIAL SERVICES,1,0,0,0
+524292,Third Party Administration of Insurance and Pension Funds,FINANCIAL SERVICES,1,0,0,0
+524298,All Other Insurance Related Activities,FINANCIAL SERVICES,1,0,0,0
+525110,Pension Funds,FINANCIAL SERVICES,1,0,0,0
+525120,Health and Welfare Funds,FINANCIAL SERVICES,1,0,0,0
+525190,Other Insurance Funds,FINANCIAL SERVICES,1,0,0,0
+525910,Open-End Investment Funds,FINANCIAL SERVICES,1,0,0,0
+525920,"Trusts, Estates, and Agency Accounts",FINANCIAL SERVICES,1,0,0,0
+525990,Other Financial Vehicles,FINANCIAL SERVICES,1,0,0,0
+531110,Lessors of Residential Buildings and Dwellings,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
+531120,Lessors of Nonresidential Buildings (except Miniwarehouses),OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
+531130,Lessors of Miniwarehouses and Self-Storage Units,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
+531190,Lessors of Other Real Estate Property,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
+531210,Offices of Real Estate Agents and Brokers,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+531311,Residential Property Managers,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+531312,Nonresidential Property Managers,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+531320,Offices of Real Estate Appraisers,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",0,0,1,0
+531390,Other Activities Related to Real Estate,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+532111,Passenger Car Rental,TRANSPORTATION AND LOGISTICS,1,0,0,0
+532112,Passenger Car Leasing,TRANSPORTATION AND LOGISTICS,1,0,0,0
+532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",TRANSPORTATION AND LOGISTICS,1,0,0,0
+532283,Home Health Equipment Rental,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",ENERGY,1,0,0,0
+541110,Offices of Lawyers,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+541120,Offices of Notaries,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+541191,Title Abstract and Settlement Offices,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+541199,All Other Legal Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+541211,Offices of Certified Public Accountants,FINANCIAL SERVICES,1,0,0,0
+541213,Tax Preparation Services,FINANCIAL SERVICES,1,0,0,0
+541214,Payroll Services,FINANCIAL SERVICES,1,0,0,0
+541219,Other Accounting Services,FINANCIAL SERVICES,1,0,0,0
+541350,Building Inspection Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+541511,Custom Computer Programming Services,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+541512,Computer Systems Design Services,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+541513,Computer Facilities Management Services,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+541519,Other Computer Related Services,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+541714,Research and Development in Biotechnology (except Nanobiotechnology),HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",HEALTHCARE / PUBLIC HEALTH,1,0,1,0
+541940,Veterinary Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+561210,Facilities Support Services,COMMERCIAL FACILITIES,1,0,0,0
+561311,Employment Placement Agencies,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+561312,Executive Search Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+561320,Temporary Help Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+561330,Professional Employer Organizations,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+561611,Investigation Services,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+561612,Security Guards and Patrol Services,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+561613,Armored Car Services,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+561621,Security Systems Services (except Locksmiths),"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+561622,Locksmiths,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",0,1,0,0
+561710,Exterminating and Pest Control Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+561720,Janitorial Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+561730,Landscaping Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,1,0,0
+561740,Carpet and Upholstery Cleaning Services,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+561790,Other Services to Buildings and Dwellings,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+562111,Solid Waste Collection,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562112,Hazardous Waste Collection,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562119,Other Waste Collection,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562211,Hazardous Waste Treatment and Disposal,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562212,Solid Waste Landfill,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562213,Solid Waste Combustors and Incinerators,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562219,Other Nonhazardous Waste Treatment and Disposal,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562910,Remediation Services,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562920,Materials Recovery Facilities,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562991,Septic Tank and Related Services,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+562998,All Other Miscellaneous Waste Management Services,PUBLIC WORKS AND INFRASTRUCTURE SUPPORT SERVICES,1,0,0,0
+621111,Offices of Physicians (except Mental Health Specialists),HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621112,"Offices of Physicians, Mental Health Specialists",HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621210,Offices of Dentists,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621310,Offices of Chiropractors,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621320,Offices of Optometrists,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621330,Offices of Mental Health Practitioners (except Physicians),HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621391,Offices of Podiatrists,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621399,Offices of All Other Miscellaneous Health Practitioners,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621410,Family Planning Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621420,Outpatient Mental Health and Substance Abuse Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621491,HMO Medical Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621492,Kidney Dialysis Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621493,Freestanding Ambulatory Surgical and Emergency Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621498,All Other Outpatient Care Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621511,Medical Laboratories,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621512,Diagnostic Imaging Centers,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621610,Home Health Care Services,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+621910,Ambulance Services,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+621991,Blood and Organ Banks,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+621999,All Other Miscellaneous Ambulatory Health Care Services,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+622110,General Medical and Surgical Hospitals,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+622210,Psychiatric and Substance Abuse Hospitals,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+623110,Nursing Care Facilities (Skilled Nursing Facilities),OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+623210,Residential Intellectual and Developmental Disability Facilities,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+623220,Residential Mental Health and Substance Abuse Facilities,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+623311,Continuing Care Retirement Communities,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+623312,Assisted Living Facilities for the Elderly,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+623990,Other Residential Care Facilities,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+624110,Child and Youth Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624120,Services for the Elderly and Persons with Disabilities,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624190,Other Individual and Family Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624210,Community Food Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624221,Temporary Shelters,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624229,Other Community Housing Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+624230,Emergency and Other Relief Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+722310,Food Service Contractors,FOOD AND AGRICULTURE,1,0,0,0
+722320,Caterers,FOOD AND AGRICULTURE,1,0,0,1
+722330,Mobile Food Services,FOOD AND AGRICULTURE,1,0,0,1
+722410,Drinking Places (Alcoholic Beverages),FOOD AND AGRICULTURE,0,1,1,1
+722511,Full-Service Restaurants,FOOD AND AGRICULTURE,1,0,0,1
+722513,Limited-Service Restaurants,FOOD AND AGRICULTURE,1,0,0,0
+722514,"Cafeterias, Grill Buffets, and Buffets",FOOD AND AGRICULTURE,1,0,0,1
+722515,Snack and Nonalcoholic Beverage Bars,FOOD AND AGRICULTURE,1,0,0,1
+811111,General Automotive Repair,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811112,Automotive Exhaust System Repair,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811113,Automotive Transmission Repair,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811118,Other Automotive Mechanical and Electrical Repair and Maintenance,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811121,"Automotive Body, Paint, and Interior Repair and Maintenance",TRANSPORTATION AND LOGISTICS,1,0,0,0
+811122,Automotive Glass Replacement Shops,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811191,Automotive Oil Change and Lubrication Shops,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811192,Car Washes,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811198,All Other Automotive Repair and Maintenance,TRANSPORTATION AND LOGISTICS,1,0,0,0
+811212,Computer and Office Machine Repair and Maintenance,COMMUNICATIONS AND INFORMATION TECHNOLOGY,1,0,0,0
+811411,Home and Garden Equipment Repair and Maintenance,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+811412,Appliance Repair and Maintenance,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+811420,Reupholstery and Furniture Repair,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",0,1,1,0
+811430,Footwear and Leather Goods Repair,HYGIENE PRODUCTS AND SERVICES,0,1,1,0
+811490,Other Personal and Household Goods Repair and Maintenance,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+812210,Funeral Homes and Funeral Services,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+812220,Cemeteries and Crematories,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+812310,Coin-Operated Laundries and Drycleaners,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+812320,Drycleaning and Laundry Services (except Coin-Operated),HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+812331,Linen Supply,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+812332,Industrial Launderers,HYGIENE PRODUCTS AND SERVICES,1,0,0,0
+812910,Pet Care (except Veterinary) Services,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+813110,Religious Organizations,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
+813212,Voluntary Health Organizations,HEALTHCARE / PUBLIC HEALTH,1,0,0,0
+921110,Executive Offices,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+921120,Legislative Bodies,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+921130,Public Finance Activities,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+921140,"Executive and Legislative Offices, Combined",OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+921150,American Indian and Alaska Native Tribal Governments,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+921190,Other General Government Support,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922110,Courts,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922120,Police Protection,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922130,Legal Counsel and Prosecution,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922140,Correctional Institutions,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922150,Parole Offices and Probation Offices,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922160,Fire Protection,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+922190,"Other Justice, Public Order, and Safety Activities",OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+923110,Administration of Education Programs,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+923120,Administration of Public Health Programs,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+923140,Administration of Veterans' Affairs,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,0,0
+924110,Administration of Air and Water Resource and Solid Waste Management Programs,WATER AND WASTEWATER,1,0,0,0
+925110,Administration of Housing Programs,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+925120,Administration of Urban Planning and Community and Rural Development,"RESIDENTIAL/SHELTER FACILITIES, HOUSING AND REAL ESTATE, AND RELATED SERVICES",1,0,0,0
+926120,Regulation and Administration of Transportation Programs,TRANSPORTATION AND LOGISTICS,1,0,0,0
+926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",ENERGY,1,0,1,0
+926140,Regulation of Agricultural Marketing and Commodities,FOOD AND AGRICULTURE,1,0,0,0
+927110,Space Research and Technology,DEFENSE INDUSTRIAL BASE,1,0,0,0
+928110,National Security,"LAW ENFORCEMENT, PUBLIC SAFETY, AND OTHER FIRST RESPONDERS",1,0,0,0
+928120,International Affairs,OTHER COMMUNITY- OR GOVERNMENT-BASED OPERATIONS AND ESSENTIAL FUNCTIONS,1,0,1,0
